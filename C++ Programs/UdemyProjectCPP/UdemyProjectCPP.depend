@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1670351420 source:c:\users\maris\onedrive\documents\udemy courses\c++ programs\udemyprojectcpp\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+

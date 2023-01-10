@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1669495675 source:c:\users\maris\onedrive\documents\udemy courses\c programs\proj 1\ejikeproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1667417204 c:\users\maris\onedrive\documents\udemy courses\c programs\proj 1\ejikeproject\customheader1.h
+
+1667420225 c:\users\maris\onedrive\documents\udemy courses\c programs\proj 1\ejikeproject\section_one.c
+
+1667421049 source:c:\users\maris\onedrive\documents\udemy courses\c programs\proj 1\ejikeproject\section_one.c
+	"customHeader1.h"
+
+1667426197 source:c:\users\maris\onedrive\documents\udemy courses\c programs\proj 1\ejikeproject\section_two.c
+
+1667430191 source:c:\users\maris\onedrive\documents\udemy courses\c programs\proj 1\ejikeproject\section_three.c
+
+1667880084 source:c:\users\maris\onedrive\documents\udemy courses\c programs\proj 1\ejikeproject\section_four.c
+
+1669495274 source:c:\users\maris\onedrive\documents\udemy courses\c programs\proj 1\ejikeproject\section_six.c
+	<time.h>
+
+1669495949 source:c:\users\maris\onedrive\documents\udemy courses\c programs\proj 1\ejikeproject\section_seven_strings.c
+
